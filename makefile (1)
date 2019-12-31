@@ -1,3 +1,0 @@
-output: main.o message.o
-	g++ main.o message.o -o output
-	./output
