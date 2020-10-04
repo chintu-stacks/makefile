@@ -1,2 +1,2 @@
 # makefile
-makefile run with object file 
+custom makefile run with object file 
